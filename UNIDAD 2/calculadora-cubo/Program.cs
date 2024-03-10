@@ -6,7 +6,7 @@ namespace calculadora_cubo
     {
         static void Main(string[] args)
         {
-            //Definir variables
+            //Definir variables variables
             int n1, resultado;
 
             //Pedir numero
